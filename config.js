@@ -16,4 +16,5 @@ const CONFIG = {
     mess: 'Tụi em biết mà 🥰. Tụi em cũng yêu cô nhiều nhiều 😘😘',
     messDesc: 'Chiều chủ nhật tuần này mình lại học tiếp nha cô, tụi em hứa sẽ tương tác với cô nhiều hơn và không vào muộn nữa. Cô xem xong nhớ qua group zalo nhắn cho tụi em biết nhaaa',
     btnAccept: 'Okiiiii lun <3',
-   
+    messLink: 'https://https://drive.google.com/drive/u/0/my-drive' //link mess của các bạn. VD: https://m.me/nam.nodemy
+}
