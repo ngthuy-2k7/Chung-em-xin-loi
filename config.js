@@ -2,9 +2,9 @@ const CONFIG = {
     titleWeb: "Lời xin lỗi",
     introTitle: 'Cô Lam dạy hóa',
     introDesc: `Trái đất vốn lạ thường
-    Mà sao cô cứ đi nhầm đường
-    Lạc vào tim em lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+                Mà sao cô cứ đi nhầm đường
+                Lạc vào tim em lẻ loi
+                Đằng sau chữ yêu đây là thương`,
     btnIntro: '^^HiHi^^',
     title: 'Tụi em xin lỗi vì chiều nay đã làm cho cô không được vui',
     desc: 'Cô tha lỗi cho tụi em được không ạ ',
