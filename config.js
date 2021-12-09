@@ -14,7 +14,7 @@ const CONFIG = {
     btnReply: 'Gửi cho bạn <3',
     reply: 'Tại vì cô yêu tụi em nhiều lắm ó <333',
     mess: 'Tụi em biết mà 🥰. Tụi em cũng yêu cô nhiều nhiều 😘😘',
-    messDesc: 'Chiều chủ nhật tuần này mình lại học tiếp nha cô, tụi em hứa sẽ tương tác với cô nhiều hơn và không vào muộn nữa. Cô xem xong nhớ qua group zalo nhắn cho tụi em biết nhaaa',
+    messDesc: 'Chiều chủ nhật tuần này mình lại học tiếp nha cô, tụi em hứa sẽ tương tác với cô nhiều hơn và không vào muộn nữa. Cô xem xong nhớ quét mã QR nha cô',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://https://drive.google.com/drive/u/0/my-drive' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://drive.google.com/file/d/1AzDyJ8QN9qo4-D--cDV2-aWIFnt06w6f/view' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
